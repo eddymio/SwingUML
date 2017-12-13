@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_D1VnYN6YEeesXK-bfUMToQ" name="SwingUML">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_rWrDoN6YEeesXK-bfUMToQ">
+    <importedPackage xmi:type="uml:Profile" href="pathmap://PapyrusJava_PROFILES/PapyrusJava.profile.uml#_j9REUByGEduN1bTiWJ0lyw"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_O7JeMN6YEeesXK-bfUMToQ" name="JButton">
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_ftFxYN6YEeesXK-bfUMToQ" name="JButton"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_tuJ4YN6YEeesXK-bfUMToQ" name="JButton">
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_2PlG4N6YEeesXK-bfUMToQ" name="text">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_HvghcN6ZEeesXK-bfUMToQ" name="JLabel">
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_MkZz0N6ZEeesXK-bfUMToQ" name="JLabel"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_W27MgN6ZEeesXK-bfUMToQ" name="JLabel">
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_a7GMkN6ZEeesXK-bfUMToQ" name="text">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Model" xmi:id="_iI86YN6ZEeesXK-bfUMToQ" name="SwingUML">
+    <packageImport xmi:type="uml:PackageImport" xmi:id="_iI86Yd6ZEeesXK-bfUMToQ">
+      <importedPackage xmi:type="uml:Profile" href="pathmap://PapyrusJava_PROFILES/PapyrusJava.profile.uml#_j9REUByGEduN1bTiWJ0lyw"/>
+    </packageImport>
+    <packagedElement xmi:type="uml:Class" xmi:id="_iI86Yt6ZEeesXK-bfUMToQ" name="JButton">
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_iI86Y96ZEeesXK-bfUMToQ" name="JButton"/>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_iI86ZN6ZEeesXK-bfUMToQ" name="JButton">
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_iI86Zd6ZEeesXK-bfUMToQ" name="text">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_iI86Zt6ZEeesXK-bfUMToQ" name="JLabel">
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_iI86Z96ZEeesXK-bfUMToQ" name="JLabel"/>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_iI86aN6ZEeesXK-bfUMToQ" name="JLabel">
+        <ownedParameter xmi:type="uml:Parameter" xmi:id="_iI86ad6ZEeesXK-bfUMToQ" name="text">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_w_f34N6ZEeesXK-bfUMToQ" name="JPanel">
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_w_f34d6ZEeesXK-bfUMToQ" name="JLabel"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_w_f34t6ZEeesXK-bfUMToQ" name="JLabel">
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_w_f3496ZEeesXK-bfUMToQ" name="text">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_1V-v8N6ZEeesXK-bfUMToQ" name="JPanel"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_3mKp4N6ZEeesXK-bfUMToQ" name="JPanel">
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_6Q05UN6ZEeesXK-bfUMToQ" name="text">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>
